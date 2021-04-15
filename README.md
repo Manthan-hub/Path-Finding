@@ -1,4 +1,4 @@
-# Path-finding-following
+# Path-finding
 Example shown in pygame of pathfinding using the A* algorithm and dynamic path following.
 
 With pygame installed, run main
